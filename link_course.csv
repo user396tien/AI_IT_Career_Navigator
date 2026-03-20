@@ -1,0 +1,208 @@
+target_skill,course_name,platform,price_model,course_url
+HTML/CSS,HTML & CSS Full Course for Beginners,YouTube,Free,https://www.youtube.com/watch?v=mU6anWqZJcc
+HTML/CSS,Responsive Web Design Certification,FreeCodeCamp,Free,https://www.freecodecamp.org/learn/responsive-web-design/
+HTML/CSS,Build Responsive Real-World Websites,Udemy,Paid,https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+HTML/CSS,Introduction to HTML5,Coursera,Free,https://www.coursera.org/learn/html
+JavaScript,JavaScript Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=W6NZfCO5SIk
+JavaScript,JavaScript Algorithms and Data Structures,FreeCodeCamp,Free,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+JavaScript,The Complete JavaScript Course 2024,Udemy,Paid,https://www.udemy.com/course/the-complete-javascript-course/
+JavaScript,Programming with JavaScript,Coursera,Free,https://www.coursera.org/learn/programming-with-javascript
+TypeScript,TypeScript Course for Beginners,YouTube,Free,https://www.youtube.com/watch?v=BwuLxPH8IDs
+TypeScript,Understanding TypeScript,Udemy,Paid,https://www.udemy.com/course/understanding-typescript/
+TypeScript,TypeScript for Professionals,FrontendMasters,Paid,https://frontendmasters.com/courses/typescript-v3/
+ReactJS,React Course - Beginner's Tutorial,YouTube,Free,https://www.youtube.com/watch?v=bMknfKXIFA8
+ReactJS,React - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+ReactJS,Meta Front-End Developer Professional Certificate,Coursera,Paid,https://www.coursera.org/professional-certificates/meta-front-end-developer
+ReactJS,Advanced React and GraphQL,WesBos,Paid,https://advancedreact.com/
+VueJS,Vue.js Course for Beginners,YouTube,Free,https://www.youtube.com/watch?v=FXpIoQ_rT_c
+VueJS,Vue - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/vuejs-2-the-complete-guide/
+VueJS,Official Vue 3 Tutorial,VueSchool,Free,https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api
+Angular,Angular for Beginners Course,YouTube,Free,https://www.youtube.com/watch?v=3qBXWUpoPHo
+Angular,Angular - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/the-complete-guide-to-angular-2/
+Angular,Single Page Web Applications with AngularJS,Coursera,Free,https://www.coursera.org/learn/single-page-web-apps-with-angularjs
+Tailwind,Tailwind CSS Crash Course,YouTube,Free,https://www.youtube.com/watch?v=UBOj6rqRUME
+Tailwind,Tailwind CSS From Scratch,Udemy,Paid,https://www.udemy.com/course/tailwind-from-scratch/
+Bootstrap,Bootstrap 5 Crash Course,YouTube,Free,https://www.youtube.com/watch?v=4sosXZsdy-s
+Bootstrap,Front-End Web UI Frameworks and Tools,Coursera,Free,https://www.coursera.org/learn/bootstrap-4
+Python,Python for Beginners - Full Course,YouTube,Free,https://www.youtube.com/watch?v=_uQrJ0TkZlc
+Python,Scientific Computing with Python,FreeCodeCamp,Free,https://www.freecodecamp.org/learn/scientific-computing-with-python/
+Python,100 Days of Code: The Complete Python Pro Bootcamp,Udemy,Paid,https://www.udemy.com/course/100-days-of-code/
+Python,Python for Everybody Specialization,Coursera,Free,https://www.coursera.org/specializations/python
+Java,Java Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=eIrMbAQSU34
+Java,Java Programming Masterclass,Udemy,Paid,https://www.udemy.com/course/java-the-complete-java-developer-course/
+Java,Object Oriented Programming in Java,Coursera,Free,https://www.coursera.org/specializations/object-oriented-programming
+Java,Spring Boot For Beginners,YouTube,Free,https://www.youtube.com/watch?v=9SGDpanrc8U
+NodeJS,Node.js and Express.js - Full Course,YouTube,Free,https://www.youtube.com/watch?v=Oe421EPjeBE
+NodeJS,NodeJS - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/nodejs-the-complete-guide/
+NodeJS,Server-side Development with NodeJS,Coursera,Free,https://www.coursera.org/learn/server-side-nodejs
+C#,C# Tutorial - Full Course for Beginners,YouTube,Free,https://www.youtube.com/watch?v=GhQdlIFylQ8
+C#,C# Basics for Beginners,Udemy,Paid,https://www.udemy.com/course/csharp-tutorial-for-beginners/
+C#,Foundational C# with Microsoft,FreeCodeCamp,Free,https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+.NET,Complete .NET Core API Course,YouTube,Free,https://www.youtube.com/watch?v=fom80T-5iHU
+.NET,Build an app with ASPNET Core and Angular,Udemy,Paid,https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/
+PHP,PHP For Beginners,YouTube,Free,https://www.youtube.com/watch?v=OK_JCtrrv-c
+PHP,PHP for Beginners - Become a PHP Master,Udemy,Paid,https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/
+Laravel,Laravel 10 Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=MY5FatbJQG0
+Laravel,Laravel - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/laravel-the-complete-guide-with-real-world-projects/
+C++,C++ Tutorial for Beginners - Full Course,YouTube,Free,https://www.youtube.com/watch?v=vLnPwxZdW4Y
+C++,Beginning C++ Programming,Udemy,Paid,https://www.udemy.com/course/beginning-c-plus-plus-programming/
+C++,Coding for Everyone: C and C++,Coursera,Free,https://www.coursera.org/specializations/coding-for-everyone
+Go,Go Programming (Golang) Course,YouTube,Free,https://www.youtube.com/watch?v=YS4e4q9oBaU
+Go,Go: The Complete Developer's Guide,Udemy,Paid,https://www.udemy.com/course/go-the-complete-developers-guide/
+Ruby,Ruby Programming Language - Full Course,YouTube,Free,https://www.youtube.com/watch?v=t_ispmWmdjY
+Ruby,The Complete Ruby on Rails Developer Course,Udemy,Paid,https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
+SQL,SQL Tutorial - Full Database Course,YouTube,Free,https://www.youtube.com/watch?v=HXV3zeQKqGY
+SQL,The Ultimate MySQL Bootcamp,Udemy,Paid,https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+SQL,Databases and SQL for Data Science,Coursera,Free,https://www.coursera.org/learn/sql-data-science
+MySQL,MySQL Crash Course,YouTube,Free,https://www.youtube.com/watch?v=9ylj9nr0Lcg
+PostgreSQL,PostgreSQL Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=qw--VYLpxG4
+PostgreSQL,SQL and PostgreSQL: The Complete Developer's Guide,Udemy,Paid,https://www.udemy.com/course/sql-and-postgresql/
+MongoDB,MongoDB Complete Tutorial,YouTube,Free,https://www.youtube.com/watch?v=ofme2o29ngU
+MongoDB,MongoDB - The Complete Developer's Guide,Udemy,Paid,https://www.udemy.com/course/mongodb-the-complete-developers-guide/
+Redis,Redis Crash Course,YouTube,Free,https://www.youtube.com/watch?v=jgpVdJB2sKQ
+Firebase,Firebase React Course,YouTube,Free,https://www.youtube.com/watch?v=9bXhf_TELP4
+Firebase,React & Firebase Complete Course,Udemy,Paid,https://www.udemy.com/course/build-a-slack-chat-app-with-react-redux-and-firebase/
+Machine Learning,Machine Learning for Everybody,YouTube,Free,https://www.youtube.com/watch?v=i_LwzRmA_08
+Machine Learning,Machine Learning A-Z,Udemy,Paid,https://www.udemy.com/course/machinelearning/
+Machine Learning,Machine Learning Specialization,Coursera,Free,https://www.coursera.org/specializations/machine-learning-introduction
+Deep Learning,Deep Learning Crash Course,YouTube,Free,https://www.youtube.com/watch?v=vyWAvX2tHQI
+Deep Learning,Deep Learning Specialization,Coursera,Free,https://www.coursera.org/specializations/deep-learning
+Data Science,Data Science Full Course,YouTube,Free,https://www.youtube.com/watch?v=-ETQ97mXXF0
+Data Science,IBM Data Science Professional Certificate,Coursera,Paid,https://www.coursera.org/professional-certificates/ibm-data-science
+Data Science,Python for Data Science and Machine Learning,Udemy,Paid,https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+Pandas,Data Analysis with Python (Pandas),YouTube,Free,https://www.youtube.com/watch?v=r-uOLxNrNk8
+Pandas,Data Analysis with Pandas and Python,Udemy,Paid,https://www.udemy.com/course/data-analysis-with-pandas/
+TensorFlow,TensorFlow 2.0 Complete Course,YouTube,Free,https://www.youtube.com/watch?v=tPYj3fFJGjk
+TensorFlow,TensorFlow Developer Certificate in 2024,Udemy,Paid,https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/
+PyTorch,PyTorch for Deep Learning,YouTube,Free,https://www.youtube.com/watch?v=V_xro1bcAuA
+PyTorch,PyTorch for Deep Learning Bootcamp,Udemy,Paid,https://www.udemy.com/course/pytorch-for-deep-learning/
+NLP,Natural Language Processing with Python,YouTube,Free,https://www.youtube.com/watch?v=xvqsFTUsOmc
+NLP,Natural Language Processing Specialization,Coursera,Free,https://www.coursera.org/specializations/natural-language-processing
+Computer Vision,Computer Vision Course,YouTube,Free,https://www.youtube.com/watch?v=OcycT1mglIG
+Computer Vision,Computer Vision Masterclass,Udemy,Paid,https://www.udemy.com/course/computer-vision-masterclass/
+Flutter,Flutter Course for Beginners,YouTube,Free,https://www.youtube.com/watch?v=VPvVD8t02U8
+Flutter,The Complete Flutter Development Bootcamp,Udemy,Paid,https://www.udemy.com/course/flutter-bootcamp-with-dart/
+React Native,React Native Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=0-S5a0eXPoc
+React Native,React Native - The Practical Guide,Udemy,Paid,https://www.udemy.com/course/react-native-the-practical-guide/
+Android,Android Development for Beginners,YouTube,Free,https://www.youtube.com/watch?v=fis26HvvDII
+Android,Android App Development Masterclass,Udemy,Paid,https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/
+Kotlin,Kotlin Course - Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=F9UC9tjx320
+Kotlin,Kotlin for Java Developers,Coursera,Free,https://www.coursera.org/learn/kotlin-for-java-developers
+iOS/Swift,Swift Tutorial - Full Course,YouTube,Free,https://www.youtube.com/watch?v=comQ1-x2a1Q
+iOS/Swift,iOS & Swift - The Complete iOS App Development,Udemy,Paid,https://www.udemy.com/course/ios-13-app-development-bootcamp/
+Unity,Unity Beginner Tutorial,YouTube,Free,https://www.youtube.com/watch?v=gB1F9G0JXOo
+Unity,Complete C# Unity Game Developer 2D,Udemy,Paid,https://www.udemy.com/course/unitycourse/
+Unreal Engine,Unreal Engine 5 Beginner Tutorial,YouTube,Free,https://www.youtube.com/watch?v=k-zMkzmduqI
+Unreal Engine,Unreal Engine 5 C++ Developer,Udemy,Paid,https://www.udemy.com/course/unrealcourse/
+Docker,Docker Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=3c-iBn73dDE
+Docker,Docker Mastery: with Kubernetes +Swarm,Udemy,Paid,https://www.udemy.com/course/docker-mastery/
+Kubernetes,Kubernetes Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=X48VuDVv0do
+Kubernetes,Kubernetes for the Absolute Beginners,Udemy,Paid,https://www.udemy.com/course/learn-kubernetes/
+AWS,AWS Certified Cloud Practitioner Certification,YouTube,Free,https://www.youtube.com/watch?v=SOTamWNgDKc
+AWS,Ultimate AWS Certified Solutions Architect,Udemy,Paid,https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+AWS,AWS Fundamentals,Coursera,Free,https://www.coursera.org/specializations/aws-fundamentals
+Azure,Microsoft Azure Fundamentals Certification,YouTube,Free,https://www.youtube.com/watch?v=NKEFWyqJ5XA
+Azure,AZ-900: Microsoft Azure Fundamentals,Udemy,Paid,https://www.udemy.com/course/microsoft-azure-beginners-guide/
+GCP,Google Cloud Digital Leader Certification,YouTube,Free,https://www.youtube.com/watch?v=UGRBFOJvBMA
+GCP,Google Cloud Fundamentals,Coursera,Free,https://www.coursera.org/learn/gcp-fundamentals
+Linux,Linux for Ethical Hackers,YouTube,Free,https://www.youtube.com/watch?v=v_1aQNDZNFU
+Linux,Linux Mastery: Master the Linux Command Line,Udemy,Paid,https://www.udemy.com/course/linux-mastery/
+Git,Git and GitHub Crash Course,YouTube,Free,https://www.youtube.com/watch?v=RGOj5yH7evk
+Git,Git Complete: The definitive guide,Udemy,Paid,https://www.udemy.com/course/git-complete/
+Git,Version Control with Git,Coursera,Free,https://www.coursera.org/learn/version-control-with-git
+CI/CD,CI/CD Crash Course,YouTube,Free,https://www.youtube.com/watch?v=scEDHlsZAxw
+Jenkins,Jenkins Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=FX322RVNGj4
+Jenkins,Jenkins, From Zero To Hero,Udemy,Paid,https://www.udemy.com/course/jenkins-from-zero-to-hero/
+Terraform,Terraform Course for Beginners,YouTube,Free,https://www.youtube.com/watch?v=7xngnjfIlK4
+Terraform,HashiCorp Certified: Terraform Associate,Udemy,Paid,https://www.udemy.com/course/terraform-beginner-to-advanced/
+Cybersecurity,Cybersecurity Full Course,YouTube,Free,https://www.youtube.com/watch?v=U_P23SqJaDc
+Cybersecurity,The Complete Cyber Security Course,Udemy,Paid,https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/
+Cybersecurity,IBM Cybersecurity Analyst Professional Certificate,Coursera,Paid,https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst
+Ethical Hacking,Ethical Hacking in 12 Hours,YouTube,Free,https://www.youtube.com/watch?v=fNzpcB7ODxQ
+Ethical Hacking,Learn Ethical Hacking From Scratch,Udemy,Paid,https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
+QA,Software Testing Tutorial,YouTube,Free,https://www.youtube.com/watch?v=goaZTAzsLMk
+QA,The Complete 2024 Software Testing Bootcamp,Udemy,Paid,https://www.udemy.com/course/software-testing-bootcamp/
+Selenium,Selenium Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=o0v4Rk_3N0I
+Selenium,Selenium WebDriver with Java,Udemy,Paid,https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/
+Cypress,Cypress End-to-End Testing,YouTube,Free,https://www.youtube.com/watch?v=7N63cOUoZAQ
+Cypress,Cypress - Modern Automation Testing,Udemy,Paid,https://www.udemy.com/course/cypress-tutorial/
+Jest,Jest Crash Course,YouTube,Free,https://www.youtube.com/watch?v=7r4xVDI2vho
+UI/UX,UI/UX Design Course,YouTube,Free,https://www.youtube.com/watch?v=c9Wg6Cb_YlU
+UI/UX,Google UX Design Professional Certificate,Coursera,Paid,https://www.coursera.org/professional-certificates/google-ux-design
+Figma,Figma Tutorial for UI Design,YouTube,Free,https://www.youtube.com/watch?v=HzRQUSENZIg
+Figma,Complete Web & Mobile Designer,Udemy,Paid,https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/
+Streamlit,Build 12 Data Science Apps with Streamlit,YouTube,Free,https://www.youtube.com/watch?v=JwSS70SZdyM
+Streamlit,Interactive Python Dashboards with Streamlit,Udemy,Paid,https://www.udemy.com/course/interactive-python-dashboards-with-streamlit/
+FastAPI,FastAPI Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=0sOvCWFmrtA
+FastAPI,FastAPI - The Complete Course,Udemy,Paid,https://www.udemy.com/course/fastapi-the-complete-course/
+Django,Django Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=rHux0gMZ3Eg
+Django,Python and Django Full Stack Web Developer,Udemy,Paid,https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
+Flask,Flask Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=Z1RJmh_OqeA
+Flask,REST APIs with Flask and Python,Udemy,Paid,https://www.udemy.com/course/rest-api-flask-and-python/
+GraphQL,GraphQL Crash Course,YouTube,Free,https://www.youtube.com/watch?v=ed8SzALpx1Q
+GraphQL,The Modern GraphQL Bootcamp,Udemy,Paid,https://www.udemy.com/course/graphql-bootcamp/
+Microservices,Microservices Crash Course,YouTube,Free,https://www.youtube.com/watch?v=lcaWpmA8GzQ
+Microservices,Microservices with Node JS and React,Udemy,Paid,https://www.udemy.com/course/microservices-with-node-js-and-react/
+RabbitMQ,RabbitMQ Crash Course,YouTube,Free,https://www.youtube.com/watch?v=O163b0kIu-c
+Kafka,Apache Kafka Crash Course,YouTube,Free,https://www.youtube.com/watch?v=U4y2R3v9tlY
+Kafka,Apache Kafka Series - Learn Apache Kafka for Beginners,Udemy,Paid,https://www.udemy.com/course/apache-kafka/
+Elasticsearch,Elasticsearch Tutorial,YouTube,Free,https://www.youtube.com/watch?v=gS_nHTITZEQ
+Elasticsearch,Complete Elasticsearch Masterclass,Udemy,Paid,https://www.udemy.com/course/elasticsearch-complete-guide/
+Spring Boot,Spring Boot Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=35EQXmHKZYs
+Spring Boot,Spring Boot 3, Spring 6 & Hibernate for Beginners,Udemy,Paid,https://www.udemy.com/course/spring-hibernate-tutorial/
+Dart,Dart Programming Tutorial,YouTube,Free,https://www.youtube.com/watch?v=Ej_Pcr4uC2Q
+Dart,Dart and Flutter: The Complete Developer's Guide,Udemy,Paid,https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/
+Data Structures,Data Structures and Algorithms in Java,YouTube,Free,https://www.youtube.com/watch?v=RBSGKlAvoiM
+Data Structures,Master the Coding Interview: Data Structures + Algorithms,Udemy,Paid,https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
+Data Structures,Algorithms Specialization,Coursera,Free,https://www.coursera.org/specializations/algorithms
+System Design,System Design Interview Preparation,YouTube,Free,https://www.youtube.com/watch?v=bUHFg8CZFws
+System Design,Grokking the System Design Interview,Educative,Paid,https://www.educative.io/courses/grokking-the-system-design-interview
+Agile/Scrum,Agile Scrum Crash Course,YouTube,Free,https://www.youtube.com/watch?v=x0XEEkE8kEw
+Agile/Scrum,Agile Crash Course: Agile Project Management,Udemy,Paid,https://www.udemy.com/course/agile-crash-course/
+Web3,Web3 Development Full Course,YouTube,Free,https://www.youtube.com/watch?v=gyMwXuJrbJQ
+Web3,Ethereum and Solidity: The Complete Developer's Guide,Udemy,Paid,https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
+Solidity,Solidity Tutorial - A Full Course,YouTube,Free,https://www.youtube.com/watch?v=ipwxYa-F1uY
+Power BI,Power BI Full Course,YouTube,Free,https://www.youtube.com/watch?v=AGrl-H87pRU
+Power BI,Microsoft Power BI Desktop for Business Intelligence,Udemy,Paid,https://www.udemy.com/course/microsoft-power-bi-up-and-running-with-excel/
+Tableau,Tableau Full Course,YouTube,Free,https://www.youtube.com/watch?v=aHaZIYqcOUU
+Tableau,Tableau 2024 A-Z: Hands-On Tableau Training,Udemy,Paid,https://www.udemy.com/course/tableau10/
+Nginx,Nginx Crash Course,YouTube,Free,https://www.youtube.com/watch?v=JKxlsvZXG7c
+Nginx,NGINX Fundamentals: High Performance Servers,Udemy,Paid,https://www.udemy.com/course/nginx-fundamentals/
+WebSockets,WebSockets Crash Course,YouTube,Free,https://www.youtube.com/watch?v=8ARodQ4Wlf4
+REST API,REST API Crash Course,YouTube,Free,https://www.youtube.com/watch?v=-MTSQjw5DrM
+REST API,REST API Design, Development & Management,Udemy,Paid,https://www.udemy.com/course/rest-api/
+GraphQL,GraphQL with React,Udemy,Paid,https://www.udemy.com/course/graphql-with-react-course/
+Vim,Vim Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=IiwGbcd8S7I
+Svelte,Svelte Crash Course,YouTube,Free,https://www.youtube.com/watch?v=3TVy6GdtNuQ
+Svelte,Svelte.js - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/sveltejs-the-complete-guide/
+NextJS,Next.js App Router Crash Course,YouTube,Free,https://www.youtube.com/watch?v=vwSlYG7hFk0
+NextJS,Next.js 14 & React - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/nextjs-react-the-complete-guide/
+NuxtJS,Nuxt.js Crash Course,YouTube,Free,https://www.youtube.com/watch?v=W5zN9vT5rCQ
+NuxtJS,Nuxt.js - Vue.js on Steroids,Udemy,Paid,https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/
+Redux,Redux Crash Course,YouTube,Free,https://www.youtube.com/watch?v=93p3LxR9xfM
+Zustand,Zustand State Management,YouTube,Free,https://www.youtube.com/watch?v=_VqZNvSOcgA
+Webpack,Webpack Crash Course,YouTube,Free,https://www.youtube.com/watch?v=IZGNcSuwBZs
+Vite,Vite Crash Course,YouTube,Free,https://www.youtube.com/watch?v=1w0yYgHw9K0
+GitHub Actions,GitHub Actions Crash Course,YouTube,Free,https://www.youtube.com/watch?v=R8_veQiYBjI
+GitHub Actions,GitHub Actions - The Complete Guide,Udemy,Paid,https://www.udemy.com/course/github-actions-the-complete-guide/
+Bitbucket,Bitbucket Tutorial,YouTube,Free,https://www.youtube.com/watch?v=R9MIfn_H3-s
+Jira,Jira Crash Course,YouTube,Free,https://www.youtube.com/watch?v=hZg41B7RvyI
+Confluence,Confluence Crash Course,YouTube,Free,https://www.youtube.com/watch?v=yW6b3tqJg1Y
+Linux Command Line,Linux Command Line Tutorial,YouTube,Free,https://www.youtube.com/watch?v=O1a52h175c0
+Shell Scripting,Shell Scripting Crash Course,YouTube,Free,https://www.youtube.com/watch?v=vQjbOZNqE0o
+Shell Scripting,Bash Scripting and Shell Programming,Udemy,Paid,https://www.udemy.com/course/bash-scripting/
+R,R Programming Tutorial,YouTube,Free,https://www.youtube.com/watch?v=_V8eKsto3Ug
+R,R Programming A-Z,Udemy,Paid,https://www.udemy.com/course/r-programming/
+Excel,Excel for Data Analysis,YouTube,Free,https://www.youtube.com/watch?v=OOWAk2aLEfk
+MATLAB,MATLAB Tutorial,YouTube,Free,https://www.youtube.com/watch?v=1psB1TCASPU
+Scala,Scala Programming Tutorial,YouTube,Free,https://www.youtube.com/watch?v=DzFt0YkZo8M
+Hadoop,Hadoop Tutorial,YouTube,Free,https://www.youtube.com/watch?v=1vbXmCrkA3Y
+Spark,Apache Spark Crash Course,YouTube,Free,https://www.youtube.com/watch?v=XrpcA75_5oU
+Snowflake,Snowflake Data Warehouse Tutorial,YouTube,Free,https://www.youtube.com/watch?v=oU8rXWJv6eU
+Databricks,Databricks Crash Course,YouTube,Free,https://www.youtube.com/watch?v=M9pITF-V3V0
+Prometheus,Prometheus Monitoring Tutorial,YouTube,Free,https://www.youtube.com/watch?v=h4Sl21AKiDg
+Grafana,Grafana Crash Course,YouTube,Free,https://www.youtube.com/watch?v=xH2lH_Vl4fE
+Ansible,Ansible Tutorial for Beginners,YouTube,Free,https://www.youtube.com/watch?v=1id6G-a22nI
+Puppet,Puppet Crash Course,YouTube,Free,https://www.youtube.com/watch?v=l_Q-uE2j9qU
+Chef,Chef Tutorial,YouTube,Free,https://www.youtube.com/watch?v=ZfXjQ6_iVl4
+OpenShift,OpenShift Crash Course,YouTube,Free,https://www.youtube.com/watch?v=fX-vN1G8aQo
