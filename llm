@@ -1,0 +1,94 @@
+from google import genai
+import time
+import streamlit as st
+@st.cache_data(show_spinner=False)
+def get_learning_roadmap_cached(cv_skills, job_skills, job_title):
+    return get_learning_roadmap(cv_skills, job_skills, job_title)
+
+@st.cache_data(show_spinner=False)
+def review_cv_cached(cv_text, job_skills, job_title):
+    return review_cv_with_llm(cv_text, job_skills, job_title)
+# --- CẤU HÌNH TRUNG TÂM ---
+GEMINI_API_KEY = "AIzaSyDrI0IZvTjUnS29eENGrrwt39ZFlzjtoF4"
+
+
+def get_client():
+    """
+    Hàm Factory để tạo và trả về AI Client.
+    Giúp các file khác (như cv_parser) dùng chung 1 cấu hình.
+    """
+    if not GEMINI_API_KEY:
+        raise ValueError("❌ Thiếu API Key trong file llm_reviewer.py!")
+    return genai.Client(api_key=GEMINI_API_KEY)
+
+
+def review_cv_with_llm(cv_text, job_skills, job_title):
+    """
+    Đóng vai chuyên gia HR để đánh giá độ phù hợp của CV.
+    """
+    client = get_client()
+
+    # Prompt được thiết kế để ép AI trả về cấu hình báo cáo chuyên nghiệp
+    prompt = f"""
+    BỐI CẢNH: Bạn là một Senior Tech Recruiter.
+    NHIỆM VỤ: Đánh giá CV ứng viên cho vị trí "{job_title}".
+
+    YÊU CẦU CỦA JOB: {job_skills}
+    NỘI DUNG CV:
+    \"\"\"{cv_text[:5000]}\"\"\"
+
+    YÊU CẦU TRẢ VỀ (MARKDOWN):
+    1. **Matching Score**: Đưa ra % phù hợp và nhận xét 1 câu về thái độ/kỹ năng.
+    2. **Strengths**: 2-3 điểm mạnh nhất khiến ứng viên nổi bật.
+    3. **Critical Gaps**: Những kỹ năng then chốt mà ứng viên còn thiếu.
+    4. **CV Tip**: 1 lời khuyên thực chiến để sửa CV này tốt hơn.
+    """
+
+    try:
+        # Sử dụng model 1.5 Flash để tối ưu tốc độ và hạn mức miễn phí
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt
+        )
+        return response.text
+    except Exception as e:
+        return f"⚠️ Không thể kết nối AI Reviewer: {str(e)}"
+
+
+def get_learning_roadmap(cv_skills, job_skills, job_title):
+    """
+    Tính năng Mentor AI: Lập lộ trình học tập khi ứng viên chưa đủ trình độ.
+    """
+    client = get_client()
+
+    # Prompt tập trung vào giáo dục và tìm kiếm tài nguyên
+    prompt = f"""
+    BỐI CẢNH: Bạn là một Mentor/Giáo viên hướng nghiệp IT.
+    ỨNG VIÊN HIỆN CÓ: {cv_skills}
+    MỤC TIÊU: Ứng tuyển vị trí "{job_title}" yêu cầu {job_skills}.
+
+    HÃY LẬP LỘ TRÌNH 4 TUẦN (UP-SKILLING ROADMAP):
+    - Chia nhỏ việc học theo từng tuần.
+    - Với mỗi kỹ năng thiếu, hãy đề xuất 1 khóa học cụ thể trên Coursera, Udemy hoặc YouTube.
+    - Đưa ra 1 ý tưởng dự án nhỏ (Pet Project) để thực hành.
+    - Trình bày bằng Markdown, sử dụng icon cho sinh động.
+    """
+
+    try:
+        # Model 2.0 Flash xử lý các yêu cầu sáng tạo và lập kế hoạch tốt hơn
+        response = client.models.generate_content(
+            model='gemini-2.0-flash',
+            contents=prompt
+        )
+        return response.text
+    except Exception as e:
+        if "429" in str(e):
+            return "😴 AI đang nghỉ ngơi một chút (Hết hạn mức). Hãy thử lại sau 1 phút!"
+        return f"⚠️ Lỗi lập lộ trình: {str(e)}"
+
+
+# --- KIỂM TRA ĐỘC LẬP ---
+if __name__ == "__main__":
+    print("🚀 Đang chạy thử nghiệm 'Bộ não AI'...")
+    # Test nhanh tính năng review
+    print(review_cv_with_llm("Biết Python, SQL", "Cần Python, AWS", "DevOps Engineer"))
