@@ -3,7 +3,7 @@ import sqlite3
 import os
 import re
 
-
+#extract 
 def extract_it_skills(text):
     """Quét và trích xuất từ khóa IT để chống lỗi 0% Match"""
     if pd.isna(text): return ""
@@ -35,11 +35,11 @@ def parse_salary(s):
     # Làm sạch dấu phẩy, chấm
     s = str(s).lower().replace(',', '').replace('.', '')
 
-    # Loại bỏ các chữ không thể tính toán
+    # Loại bỏ các chữ không thể tính toán được
     if 'thoả thuận' in s or 'thỏa thuận' in s or 'cạnh tranh' in s:
         return None
 
-    # Tìm tất cả các con số trong chuỗi
+    # Tìm tất cả các con số trong chuỗi và đưa vào
     numbers = [float(x) for x in re.findall(r'\d+', s)]
 
     if not numbers:
