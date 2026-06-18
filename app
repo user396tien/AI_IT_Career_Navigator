@@ -8,8 +8,8 @@ import re
 from thefuzz import fuzz
 from cv_parser import extract_info
 from llm_reviewer import review_cv_with_llm, get_learning_roadmap
-
-# ─── 1. CẤU HÌNH HỆ THỐNG ────────────────────────────────────────────────
+#app
+# ─── 1. CẤU HÌNH HỆ THỐNG  ───────────────────────────────────────────────
 BASE_DIR = Path(__file__).resolve().parent
 DB_PATH = BASE_DIR / "career_navigator.db"
 
@@ -74,7 +74,7 @@ def get_manual_roadmap(missing_skills, job_title):
     # Danh sách các từ khóa "vùng xám" muốn loại bỏ khỏi mục Kỹ năng thiếu
     blacklist = ["backend", "frontend", "devops", "thực tập", "fresher"]
 
-    # Lọc bỏ các từ trong blacklist trước khi hiện
+    # Lọc bỏ các từ trong blacklist trước khi hiện lên
     clean_missing_skills = [s for s in missing_skills if s.lower().strip() not in blacklist]
 
     st.write(", ".join([f":red[{s.upper()}]" for s in clean_missing_skills]))
