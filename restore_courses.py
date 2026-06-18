@@ -4,7 +4,7 @@ import os
 
 
 def restore_from_csv():
-    # Tên file bạn đã gửi
+    # Tên file 
     csv_file = "link_course.csv"
     db_file = "career_navigator.db"
 
@@ -15,10 +15,10 @@ def restore_from_csv():
     print(f"📚 Đang nạp {len(pd.read_csv(csv_file, on_bad_lines='skip'))} khóa học vào Database...")
 
     try:
-        # Đọc CSV và bỏ qua các dòng lỗi định dạng (bad lines)
+        # Đọc CSV và bỏ qua các dòng bị lỗi định dạng (bad lines)
         df = pd.read_csv(csv_file, on_bad_lines='skip')
 
-        # Làm sạch tên kỹ năng để khi so khớp với CV không bị lệch (ví dụ: " Python " -> "Python")
+        # Làm sạch tên kỹ năng để khi so khớp với CV không bị lệch nhau (ví dụ: " Python " -> "Python")
         df['target_skill'] = df['target_skill'].str.strip()
 
         conn = sqlite3.connect(db_file)
